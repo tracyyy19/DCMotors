@@ -26,4 +26,4 @@ This library is for controlling DC motors with direct register manipulation of A
 - **Motor B PWM Pin**: Connect to **Pin D6**
 
 ### Example Usage
-- Download the test_servo_and_motor and run it 
+- Download the test_servo_and_motor.ino and run it 
